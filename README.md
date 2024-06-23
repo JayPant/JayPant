@@ -75,7 +75,7 @@ Reach Me                 | [![Instagram Badge](https://img.shields.io/badge/-Dha
     <img alt="Jay Pant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypant&theme=dark&hide_border=true"/>
 </div>
 
-
+---
 **Profile views**
 
 <p align="center">
