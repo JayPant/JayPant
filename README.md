@@ -75,6 +75,12 @@ Reach Me                 | [![Instagram Badge](https://img.shields.io/badge/-Dha
     <img alt="Jay Pant's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypant&theme=dark&hide_border=true"/>
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jaypant&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaypant&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
 ---
 **Profile views**
 
