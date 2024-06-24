@@ -13,7 +13,7 @@ I am highly motivated to continue my professional development and become a profi
 
 - 🔭 I’m currently working on Razorpay Clone
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK** 
 
 - 💬 Ask me about **Java and Motivation**
 
@@ -55,6 +55,7 @@ Reach Me                 | [![Instagram Badge](https://img.shields.io/badge/-Dha
   </tr>
 </table>
 
+*Learning React and MongoDb is in process.
 
 <br><br>
 
