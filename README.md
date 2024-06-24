@@ -29,7 +29,7 @@ Property                 | Data
 Language            |  ![C Badge](https://img.shields.io/badge/C-Language-blue) ![Python Badge](https://img.shields.io/badge/Python-Language-yellow) ![Java Badge](https://img.shields.io/badge/Java-Language-blue)
 IDE        |  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio-Code-blue)
 Domain Knowledge         | ![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) 
-Reach Me                 | [![Instagram Badge](https://img.shields.io/badge/-Dhananjay-00acee?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jaypant_08/) [![Gmail Badge](https://img.shields.io/badge/-Dhanjay-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:jaypant1111@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Dhananjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-pant1111/)
+Reach Me                 | [![Instagram Badge](https://img.shields.io/badge/-Dhananjay-00acee?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jaypant_08/) [![Gmail Badge](https://img.shields.io/badge/-Dhananjay-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:jaypant1111@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Dhananjay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-pant1111/)
 
 <br><br>
 ## Skills
