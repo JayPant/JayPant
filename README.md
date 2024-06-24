@@ -11,17 +11,13 @@ I am highly motivated to continue my professional development and become a profi
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Project](https.com)
+- 🔭 I’m currently working on Razorpay Clone
 
 - 🌱 I’m currently learning **MERN STACK**
-
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
 - 💬 Ask me about **Java and Motivation**
 
 - 📫 How to reach me **jaypant1111@gmail.com**
-
-- 📄 Know about my experiences [resume.com](resume.com)
 
 - ⚡ Fun fact **I have good humor**
 
