@@ -19,7 +19,7 @@ I am highly motivated to continue my professional development and become a profi
 
 - 📫 How to reach me **jaypant1111@gmail.com**
 
-- ⚡ Fun fact **I have good humor**
+- ⚡ Fun fact **I have a good humor**
 
 <br><br>
 ## <b>Profile</b>
